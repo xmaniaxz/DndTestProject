@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device.width, initial-scale=1.0">
+    <link rel="stylesheet" href="Stylesheet.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="Stats.js"></script>
+    <script src="SaveLoad.js"></script>
+
+
+</head>
+
+<body>
+
+    <!-- TopContainer -->
+    <div id="topContainer">
+        <div id="topLeftContainer">
+            <Table>
+                <tr>
+                    <td class="TopTD">Race:</td>
+                    <td  class="TopTD"><input id="Race" type="text"></td>
+                </tr>
+                <tr>
+                    <td  class="TopTD">Class:</td>
+                    <td  class="TopTD"><input  id="Class" type="text"></td>
+                </tr>
+                <tr>
+                    <td  class="TopTD">Background:</td>
+                    <td  class="TopTD"><input id="Background" type="text"></td>
+                </tr>
+            </Table>
+        </div>
+        <div id="imageContainer">
+            <img id="profileImage" src="Images/ProfilePicture/alexis.png" height="1200px">
+            <div id="level">
+                <input id="playerLevel" type="number" value="1">
+            </div>
+        </div>
+        <div id="topRightContainer">
+            <table>
+                <tr>
+                    <td class="TopTD"><input id="Playername" type="text"></td>
+                    <td  class="TopTD">Player name</td>
+
+                </tr>
+                <tr>
+                    <td class="TopTD"><input id="Alignment" type="text"></td>
+                    <td  class="TopTD">Alignment</td>
+
+                </tr>
+                <tr>
+                    <td  class="TopTD"><input id="EXP" type="text"></td>
+                    <td  class="TopTD">Exp</td>
+                </tr>
+            </table>
+
+        </div>
+        <br>
+        <br>
+        <div id="underTopContainer">
+            <div id="HPContainer">
+                <table>
+                    <tr>
+                        <td>max HP</td>
+                        <td><input id="MaxHealthPoints" type="text" placeholder="0"></td>
+                    </tr>
+                    <br>
+                    <tr>
+                        <td>current HP</td>
+                        <td><input id="HealthPoints" type="text" placeholder="0"></td>
+                    </tr>
+                </table>
+            </div>
+            <div>
+                <table>
+                    <br>
+                    <tr>
+                        <td><input id="Charactername" type="text"></td>
+                        <td><div id="Character">Character name</div></td>
+                  
+                    </tr>
+                    <tr>
+                        <td><input id="ProficiencyBonus" type="number"></td>
+                        <td>Proficiency Bonus</td>
+                    </tr>
+                </table>
+
+            </div>
+
+        </div>
+    </div>
+
+    <!-- StatsContainer -->
+    <div id="statsContainer">
+        <!-- Strength -->
+        <div class="Stats">
+            <input class="StatsInput" id="baseStat" type="number" value="0"></input>
+            <input class="StatsOutput" id="calcStat" type="number" value="0"></input>
+            <p>Strength</p>
+            <!-- Button with Skills  -->
+            <Button id="BtnStrength" onclick="ShowSkills('SkillStrength','BtnStrength');">Show skills</Button>
+            <div id="SkillStrength" style="display:none;" class="Skills">
+                <table>
+                    <tr>
+                        <td><input id="Proficiency" onchange="GetSkillID(0);" type="checkbox"></td>
+                        <td><input class="SkillCalc" id="SkillAmount" type="number" value="0"></td>
+                        <td>
+                            <p>Athletics</p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <!-- End button with Skills  -->
+        </div>
+        <!-- Constitution  -->
+        <div class="Stats">
+            <input class="StatsInput" id="baseStat" type="number" value="0"></input>
+            <input class="StatsOutput" id="calcStat" type="number" value="0"></input>
+            <p>Constitution</p>
+        </div>
+        <!-- Dexterity  -->
+        <div class="Stats">
+            <input class="StatsInput" id="baseStat" type="number" value="0"></input>
+            <input class="StatsOutput" id="calcStat" type="number" value="0"></input>
+            <p>Dexterity</p>
+            <Button id="BtnDexterity" onclick="ShowSkills('SkillDexterity','BtnDexterity');">Show skills</Button>
+            <div id="SkillDexterity" class="Skills" style="display: none;">
+                <table>
+                    <tr>
+                        <td><input id="Proficiency" onchange="GetSkillID(2);" type="checkbox"></td>
+                        <td><input class="SkillCalc" id="SkillAmount" type="number" value="0"></td>
+                        <td>
+                            <p>Acrobatics</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><input id="Proficiency" onchange="GetSkillID(2);" type="checkbox"></td>
+                        <td><input class="SkillCalc" id="SkillAmount" type="number" value="0"></td>
+                        <td>
+                            <p>Sleight of hand</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><input id="Proficiency" onchange="GetSkillID(2);" type="checkbox"></td>
+                        <td><input class="SkillCalc" id="SkillAmount" type="number" value="0"></td>
+                        <td>
+                            <p>Stealth</p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <!-- Intelligence  -->
+        <div class="Stats">
+            <input class="StatsInput" id="baseStat" type="number" value="0"></input>
+            <input class="StatsOutput" id="calcStat" type="number" value="0"></input>
+            <p>Intelligence</p>
+            <!-- Button with Skills  -->
+            <Button id="BtnIntelligence" onclick="ShowSkills('SkillIntelligence','BtnIntelligence');">Show
+                skills</Button>
+            <div id="SkillIntelligence" style="display: none;" class="Skills">
+                <table>
+                    <tr>
+                        <td><input id="Proficiency" onchange="GetSkillID(3);" type="checkbox"></td>
+                        <td><input class="SkillCalc" id="SkillAmount" type="number" value="0"></td>
+                        <td>
+                            <p>Arcana</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><input id="Proficiency" onchange="GetSkillID(3);" type="checkbox"></td>
+                        <td><input class="SkillCalc" id="SkillAmount" type="number" value="0"></td>
+                        <td>
+                            <p>History</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><input id="Proficiency" onchange="GetSkillID(3);" type="checkbox"></td>
+                        <td><input class="SkillCalc" id="SkillAmount" type="number" value="0"></td>
+                        <td>
+                            <p>Investigation</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><input id="Proficiency" onchange="GetSkillID(3);" type="checkbox"></td>
+                        <td><input class="SkillCalc" id="SkillAmount" type="number" value="0"></td>
+                        <td>
+                            <p>Nature</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><input id="Proficiency" onchange="GetSkillID(3);" type="checkbox"></td>
+                        <td><input class="SkillCalc" id="SkillAmount" type="number" value="0"></td>
+                        <td>
+                            <p>Religion</p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <!-- End button with Skills  -->
+        </div>
+        <!-- Wisdom  -->
+        <div class="Stats">
+            <input class="StatsInput" id="baseStat" type="number" value="0"></input>
+            <input class="StatsOutput" id="calcStat" type="number" value="0"></input>
+            <p>Wisdom</p>
+            <!-- Button with Skills  -->
+            <Button id="BtnWisdom" onclick="ShowSkills('SkillWisdom','BtnWisdom');">Show skills</Button>
+            <div id="SkillWisdom" style="display: none;" class="Skills">
+                <table>
+                    <tr>
+                        <td><input id="Proficiency" onchange="GetSkillID(4);" type="checkbox"></td>
+                        <td><input class="SkillCalc" id="SkillAmount" type="number" value="0"></td>
+                        <td>
+                            <p>Animal Handling</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><input id="Proficiency" onchange="GetSkillID(4);" type="checkbox"></td>
+                        <td><input class="SkillCalc" id="SkillAmount" type="number" value="0"></td>
+                        <td>
+                            <p>Insight</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><input id="Proficiency" onchange="GetSkillID(4);" type="checkbox"></td>
+                        <td><input class="SkillCalc" id="SkillAmount" type="number" value="0"></td>
+                        <td>
+                            <p>Medicine</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><input id="Proficiency" onchange="GetSkillID(4);" type="checkbox"></td>
+                        <td><input class="SkillCalc" id="SkillAmount" type="number" value="0"></td>
+                        <td>
+                            <p>Perception</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><input id="Proficiency" onchange="GetSkillID(4);" type="checkbox"></td>
+                        <td><input class="SkillCalc" id="SkillAmount" type="number" value="0"></td>
+                        <td>
+                            <p>Survival</p>
+                        </td>
+                    </tr>
+
+                </table>
+            </div>
+            <!-- End button with Skills  -->
+        </div>
+        <!-- Charisma -->
+        <div class="Stats">
+            <input class="StatsInput" id="baseStat" type="number" value="0"></input>
+            <input class="StatsOutput" id="calcStat" type="number" value="0"></input>
+            <p>Charisma</p>
+            <!-- Button with Skills  -->
+            <Button id="BtnCharisma" onclick="ShowSkills('SkillCharisma','BtnCharisma');">Show skills</Button>
+            <div id="SkillCharisma" style="display: none;" class="Skills">
+                <table>
+                    <tr>
+                        <td><input id="Proficiency" onchange="GetSkillID(5);" type="checkbox"></td>
+                        <td><input class="SkillCalc" id="SkillAmount" type="number" value="0"></td>
+                        <td>
+                            <p>Deception</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><input id="Proficiency" onchange="GetSkillID(5);" type="checkbox"></td>
+                        <td><input class="SkillCalc" id="SkillAmount" type="number" value="0"></td>
+                        <td>
+                            <p>Intimidation</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><input id="Proficiency" onchange="GetSkillID(5);" type="checkbox"></td>
+                        <td><input class="SkillCalc" id="SkillAmount" type="number" value="0"></td>
+                        <td>
+                            <p>Performance</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><input id="Proficiency" type="checkbox"></td>
+                        <td><input class="SkillCalc" id="SkillAmount" type="number" value="0"></td>
+                        <td>
+                            <p>Persuasion</p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <!-- End button with Skills  -->
+        </div>
+
+    </div>
+
+    <button onclick="LoadFile(); ConvertNumber();"  id="Load">Load</button>
+    <button onclick="SaveFile();" id="Save">Save</button>
+    <button onclick="SendToServer();">SendToPHP</button>
+
+</body>
+
+</html>
