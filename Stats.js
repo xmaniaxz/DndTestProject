@@ -100,14 +100,28 @@ function ShowSkills(arg, arg2) {
     if (tab.style.display === 'none') {
         tab.style.display = 'block';
         btn.innerHTML = 'Hide skills'
+        ButtonAddedTolist += btn;
     }
     else {
         tab.style.display = 'none';
         btn.innerHTML = 'Show skills'
+        ButtonAddedTolist -= btn;
     }
+    AdjustWindowHeight();
 }
 
+var ButtonAddedTolist = [];
 
+function AdjustWindowHeight(){
+    var statsContainer = document.getElementById('statsContainer');
+    if(ButtonAddedTolist.length > 0)
+    {
+        statsContainer.style.height = '35vh';
+    }
+    else{
+        statsContainer.style.height = '19vh';
+    }
+}
 
 // Call onPageLoad when the page is loaded
 document.addEventListener('DOMContentLoaded', onPageLoad);

@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="Stylesheet.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script src="Stats.js"></script>
+    <script src="Spells.js"></script>
     <script src="SaveLoad.js"></script>
 
 
@@ -25,6 +26,10 @@
                 <tr>
                     <td  class="TopTD">Class:</td>
                     <td  class="TopTD"><input  id="Class" type="text"></td>
+                </tr>
+                <tr>
+                    <td class="TopTD">SubClass</td>
+                    <td  class="TopTD"><input  id="SubClass" type="text"></td>
                 </tr>
                 <tr>
                     <td  class="TopTD">Background:</td>
@@ -294,9 +299,40 @@
 
     </div>
 
-    <button onclick="LoadFile(); ConvertNumber();"  id="Load">Load</button>
-    <button onclick="SaveFile();" id="Save">Save</button>
-    <button onclick="SendToServer();">SendToPHP</button>
+    <div id="specialsContainer">
+        <div id='specialsContainerButtons'>
+            <button onclick="ShowSpells()">Spells</button>
+            <button>Equipment</button>
+            <button>Player details</button>
+
+        </div>
+        <div id='specialsContainerData'>
+            <div id="spellSettings">
+                <label for="SpellClass">Class:</label>
+                <select name="SpellClass" id="SpellClass">
+                    <option value="artificer">Artificer</option>
+                    <option value="bard">Bard</option>
+                    <option value="cleric">Cleric</option>
+                    <option value="druid">Druid</option>
+                    <option value="paladin">Paladin</option>
+                    <option value="ranger">Ranger</option>
+                    <option value="sorcerer">Sorcerer</option>
+                    <option value="warlock">Warlock</option>
+                    <option value="wizard">Wizard</option>
+                </select>
+            </div>
+            <hr>
+            <div style='display: block; 'id="spellContainer">
+
+            </div>
+        </div>
+    </div>
+
+    <div  id="buttonContainer">
+        <button onclick="LoadFile(); ConvertNumber();"  id="Load">Load</button>
+        <button onclick="SaveFile();" id="Save">Save</button>
+        <button onclick="SendToServer();">SendToPHP</button>
+    </div>
 
 </body>
 
