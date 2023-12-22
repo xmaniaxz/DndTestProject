@@ -1,0 +1,11 @@
+{
+    "spellName": "Simulacrum",
+    "school": "Illusion",
+    "castingTime": "12 hours",
+    "range": "Touch",
+    "duration": "Until dispelled",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

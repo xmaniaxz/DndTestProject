@@ -1,0 +1,11 @@
+{
+    "spellName": "Hellish Rebuke",
+    "school": "Evocation",
+    "castingTime": "1 Reaction",
+    "range": "60 feet",
+    "duration": "Instantaneous",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

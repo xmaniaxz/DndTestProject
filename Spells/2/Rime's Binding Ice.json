@@ -1,0 +1,11 @@
+{
+    "spellName": "Rime's Binding Ice",
+    "school": "Evocation",
+    "castingTime": "1 Action",
+    "range": "Self (30-foot cone)",
+    "duration": "Instantaneous",
+    "components": "S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

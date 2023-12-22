@@ -1,0 +1,11 @@
+{
+    "spellName": "Regenerate",
+    "school": "Transmutation",
+    "castingTime": "1 Minute",
+    "range": "Touch",
+    "duration": "1 hour",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

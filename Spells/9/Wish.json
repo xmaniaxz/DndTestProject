@@ -1,0 +1,11 @@
+{
+    "spellName": "Wish",
+    "school": "Conjuration",
+    "castingTime": "1 Action",
+    "range": "Self",
+    "duration": "Instantaneous",
+    "components": "V",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

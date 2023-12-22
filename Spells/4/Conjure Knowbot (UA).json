@@ -1,0 +1,11 @@
+{
+    "spellName": "Conjure Knowbot (UA)",
+    "school": "Conjuration T",
+    "castingTime": "1 Action",
+    "range": "Touch",
+    "duration": "10 minutes",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

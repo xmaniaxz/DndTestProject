@@ -1,0 +1,11 @@
+{
+    "spellName": "Word of Recall",
+    "school": "Conjuration",
+    "castingTime": "1 Action",
+    "range": "5 feet",
+    "duration": "Instantaneous",
+    "components": "V",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

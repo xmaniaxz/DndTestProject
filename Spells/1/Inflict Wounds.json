@@ -1,0 +1,11 @@
+{
+    "spellName": "Inflict Wounds",
+    "school": "Necromancy",
+    "castingTime": "1 Action",
+    "range": "Touch",
+    "duration": "Instantaneous",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

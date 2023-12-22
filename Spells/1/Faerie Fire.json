@@ -1,0 +1,11 @@
+{
+    "spellName": "Faerie Fire",
+    "school": "Evocation",
+    "castingTime": "1 Action",
+    "range": "60 feet",
+    "duration": "Concentration, up to 1 minute",
+    "components": "V",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

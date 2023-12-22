@@ -1,0 +1,11 @@
+{
+    "spellName": "Find Steed",
+    "school": "Conjuration",
+    "castingTime": "10 Minutes",
+    "range": "30 feet",
+    "duration": "Instantaneous",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

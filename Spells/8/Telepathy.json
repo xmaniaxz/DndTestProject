@@ -1,0 +1,11 @@
+{
+    "spellName": "Telepathy",
+    "school": "Evocation",
+    "castingTime": "1 Action",
+    "range": "Unlimited",
+    "duration": "24 hours",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

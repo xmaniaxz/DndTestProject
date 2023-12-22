@@ -1,0 +1,11 @@
+{
+    "spellName": "Resurrection",
+    "school": "Necromancy",
+    "castingTime": "1 Hour",
+    "range": "Touch",
+    "duration": "Instantaneous",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

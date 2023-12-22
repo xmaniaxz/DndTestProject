@@ -1,0 +1,11 @@
+{
+    "spellName": "Green-Flame Blade",
+    "school": "Evocation",
+    "castingTime": "1 Action",
+    "range": "Self (5-foot radius)",
+    "duration": "Instantaneous",
+    "components": "S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

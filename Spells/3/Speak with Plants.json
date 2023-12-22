@@ -1,0 +1,11 @@
+{
+    "spellName": "Speak with Plants",
+    "school": "Transmutation",
+    "castingTime": "1 Action",
+    "range": "Self (30-foot radius)",
+    "duration": "10 minutes",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

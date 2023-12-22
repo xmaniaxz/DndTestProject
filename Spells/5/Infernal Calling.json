@@ -1,0 +1,11 @@
+{
+    "spellName": "Infernal Calling",
+    "school": "Conjuration",
+    "castingTime": "1 Minute",
+    "range": "90 feet",
+    "duration": "Concentration, up to 1 hour",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

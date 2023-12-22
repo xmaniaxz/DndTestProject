@@ -1,0 +1,11 @@
+{
+    "spellName": "Commune with Nature",
+    "school": "Divination",
+    "castingTime": "1 Minute R",
+    "range": "Self",
+    "duration": "Instantaneous",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

@@ -1,0 +1,11 @@
+{
+    "spellName": "Zone of Truth",
+    "school": "Enchantment",
+    "castingTime": "1 Action",
+    "range": "60 feet",
+    "duration": "10 minutes",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

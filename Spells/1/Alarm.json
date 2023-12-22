@@ -1,0 +1,11 @@
+{
+    "spellName": "Alarm",
+    "school": "Abjuration",
+    "castingTime": "1 Minute R",
+    "range": "30 feet",
+    "duration": "8 Hours",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

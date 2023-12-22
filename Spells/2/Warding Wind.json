@@ -1,0 +1,11 @@
+{
+    "spellName": "Warding Wind",
+    "school": "Evocation",
+    "castingTime": "1 Action",
+    "range": "Self",
+    "duration": "Concentration, up to 10 minutes",
+    "components": "V",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

@@ -1,0 +1,11 @@
+{
+    "spellName": "Fog Cloud",
+    "school": "Conjuration",
+    "castingTime": "1 Action",
+    "range": "120 feet",
+    "duration": "Concentration, up to 1 hour",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

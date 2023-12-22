@@ -1,0 +1,11 @@
+{
+    "spellName": "Levitate",
+    "school": "Transmutation",
+    "castingTime": "1 Action",
+    "range": "60 feet",
+    "duration": "Concentration, up to 10 minutes",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

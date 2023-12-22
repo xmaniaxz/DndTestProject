@@ -1,0 +1,11 @@
+{
+    "spellName": "Lightning Bolt",
+    "school": "Evocation",
+    "castingTime": "1 Action",
+    "range": "Self (100-foot line)",
+    "duration": "Instantaneous",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

@@ -1,0 +1,11 @@
+{
+    "spellName": "Spray Of Cards",
+    "school": "Conjuration",
+    "castingTime": "1 Action",
+    "range": "Self (15-foot cone)",
+    "duration": "Instantaneous",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

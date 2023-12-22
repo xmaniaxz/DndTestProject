@@ -1,0 +1,11 @@
+{
+    "spellName": "Decompose (HB)",
+    "school": "Necromancy",
+    "castingTime": "1 Action",
+    "range": "Touch",
+    "duration": "1 minute",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

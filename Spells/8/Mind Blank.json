@@ -1,0 +1,11 @@
+{
+    "spellName": "Mind Blank",
+    "school": "Abjuration",
+    "castingTime": "1 Action",
+    "range": "Touch",
+    "duration": "24 hours",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

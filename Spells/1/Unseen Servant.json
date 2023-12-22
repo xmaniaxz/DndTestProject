@@ -1,0 +1,11 @@
+{
+    "spellName": "Unseen Servant",
+    "school": "Conjuration",
+    "castingTime": "1 Action R",
+    "range": "60 feet",
+    "duration": "1 hour",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

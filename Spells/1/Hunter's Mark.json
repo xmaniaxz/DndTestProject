@@ -1,0 +1,11 @@
+{
+    "spellName": "Hunter's Mark",
+    "school": "Divination",
+    "castingTime": "1 Bonus Action",
+    "range": "90 feet",
+    "duration": "Concentration, up to 1 hour",
+    "components": "V",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

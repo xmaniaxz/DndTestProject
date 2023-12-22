@@ -1,0 +1,11 @@
+{
+    "spellName": "Incite Greed",
+    "school": "Enchantment",
+    "castingTime": "1 action",
+    "range": "30 feet",
+    "duration": "Concentration, up to 1 minute",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

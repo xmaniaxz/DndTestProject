@@ -1,0 +1,11 @@
+{
+    "spellName": "Danse Macabre",
+    "school": "Necromancy",
+    "castingTime": "1 Action",
+    "range": "60 Feet",
+    "duration": "Concentration, up to 1 hour",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

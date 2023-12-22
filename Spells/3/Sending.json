@@ -1,0 +1,11 @@
+{
+    "spellName": "Sending",
+    "school": "Evocation",
+    "castingTime": "1 Action",
+    "range": "Unlimited",
+    "duration": "1 round",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

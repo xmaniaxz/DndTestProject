@@ -1,0 +1,11 @@
+{
+    "spellName": "Demiplane",
+    "school": "Conjuration",
+    "castingTime": "1 Action",
+    "range": "60 feet",
+    "duration": "1 hour",
+    "components": "S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

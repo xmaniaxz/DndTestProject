@@ -1,0 +1,11 @@
+{
+    "spellName": "Planar Binding",
+    "school": "Abjuration",
+    "castingTime": "1 Hour",
+    "range": "60 feet",
+    "duration": "24 hours",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

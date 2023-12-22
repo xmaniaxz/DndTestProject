@@ -1,0 +1,11 @@
+{
+    "spellName": "Catnap",
+    "school": "Enchantment",
+    "castingTime": "1 Action",
+    "range": "30 feet",
+    "duration": "10 minutes",
+    "components": "S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

@@ -1,0 +1,11 @@
+{
+    "spellName": "Create Spelljamming Helm",
+    "school": "Transmutation",
+    "castingTime": "1 Action",
+    "range": "Touch",
+    "duration": "Instantaneous",
+    "components": "V,S,M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

@@ -1,0 +1,11 @@
+{
+    "spellName": "Purify Food and Drink",
+    "school": "Transmutation",
+    "castingTime": "1 Action R",
+    "range": "10 feet",
+    "duration": "Instantaneous",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

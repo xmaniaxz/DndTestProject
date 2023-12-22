@@ -1,0 +1,11 @@
+{
+    "spellName": "Pulse Wave",
+    "school": "Evocation D",
+    "castingTime": "1 Action",
+    "range": "Self (30-foot cone)",
+    "duration": "Instantaneous",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

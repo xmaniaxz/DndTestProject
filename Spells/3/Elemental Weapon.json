@@ -1,0 +1,11 @@
+{
+    "spellName": "Elemental Weapon",
+    "school": "Transmutation",
+    "castingTime": "1 Action",
+    "range": "Touch",
+    "duration": "Concentration, up to 1 hour",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

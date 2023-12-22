@@ -1,0 +1,11 @@
+{
+    "spellName": "Cordon of Arrows",
+    "school": "Transmutation",
+    "castingTime": "1 Action",
+    "range": "5 feet",
+    "duration": "8 hours",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

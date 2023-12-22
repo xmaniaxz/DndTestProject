@@ -1,0 +1,11 @@
+{
+    "spellName": "Arcane Gate",
+    "school": "Conjuration",
+    "castingTime": "1 Action",
+    "range": "500 feet",
+    "duration": "Concentration, up to 10 minutes",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

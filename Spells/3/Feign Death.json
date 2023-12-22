@@ -1,0 +1,11 @@
+{
+    "spellName": "Feign Death",
+    "school": "Necromancy",
+    "castingTime": "1 Action R",
+    "range": "Touch",
+    "duration": "1 hour",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

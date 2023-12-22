@@ -1,0 +1,11 @@
+{
+    "spellName": "Aid",
+    "school": "Abjuration",
+    "castingTime": "1 Action",
+    "range": "30 Feet",
+    "duration": "8 hours",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

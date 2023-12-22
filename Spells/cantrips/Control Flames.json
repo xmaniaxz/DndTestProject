@@ -1,0 +1,11 @@
+{
+    "spellName": "Control Flames",
+    "school": "Transmutation",
+    "castingTime": "1 Action",
+    "range": "60 Feet",
+    "duration": "Instantaneous or 1 hour",
+    "components": "S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

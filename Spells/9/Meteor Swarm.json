@@ -1,0 +1,11 @@
+{
+    "spellName": "Meteor Swarm",
+    "school": "Evocation",
+    "castingTime": "1 Action",
+    "range": "1 mile",
+    "duration": "Instantaneous",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

@@ -1,0 +1,11 @@
+{
+    "spellName": "Mordenkainen's Faithful Hound",
+    "school": "Conjuration",
+    "castingTime": "1 Action",
+    "range": "30 feet",
+    "duration": "8 hours",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

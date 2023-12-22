@@ -1,0 +1,11 @@
+{
+    "spellName": "Fly",
+    "school": "Transmutation",
+    "castingTime": "1 Action",
+    "range": "Touch",
+    "duration": "Concentration, up to 10 minute",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

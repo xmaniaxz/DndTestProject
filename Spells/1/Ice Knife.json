@@ -1,0 +1,11 @@
+{
+    "spellName": "Ice Knife",
+    "school": "Conjuration",
+    "castingTime": "1 Action",
+    "range": "60 feet",
+    "duration": "Instantaneous",
+    "components": "S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

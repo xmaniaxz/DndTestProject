@@ -1,0 +1,11 @@
+{
+    "spellName": "Fireball",
+    "school": "Evocation",
+    "castingTime": "1 Action",
+    "range": "150 feet",
+    "duration": "Instantaneous",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

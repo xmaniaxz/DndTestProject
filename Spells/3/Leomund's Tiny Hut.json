@@ -1,0 +1,11 @@
+{
+    "spellName": "Leomund's Tiny Hut",
+    "school": "Evocation",
+    "castingTime": "1 Minute R",
+    "range": "Self (10-foot radius hemisphere)",
+    "duration": "8 hours",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

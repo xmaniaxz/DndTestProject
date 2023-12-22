@@ -1,0 +1,11 @@
+{
+    "spellName": "Catapult",
+    "school": "Transmutation",
+    "castingTime": "1 Action",
+    "range": "60 feet",
+    "duration": "Instantaneous",
+    "components": "S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

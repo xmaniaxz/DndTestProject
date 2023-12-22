@@ -1,0 +1,11 @@
+{
+    "spellName": "Move Earth",
+    "school": "Transmutation",
+    "castingTime": "1 Action",
+    "range": "120 feet",
+    "duration": "Concentration, up to 2 hours",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

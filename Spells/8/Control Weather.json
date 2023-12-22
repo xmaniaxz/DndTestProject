@@ -1,0 +1,11 @@
+{
+    "spellName": "Control Weather",
+    "school": "Transmutation",
+    "castingTime": "10 Minutes",
+    "range": "Self (5 mile radius)",
+    "duration": "Concentration, Up to 8 hours",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

@@ -1,0 +1,11 @@
+{
+    "spellName": "Silence",
+    "school": "Illusion",
+    "castingTime": "1 Action R",
+    "range": "120 feet",
+    "duration": "Concentration, up to 10 minutes",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

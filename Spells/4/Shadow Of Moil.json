@@ -1,0 +1,11 @@
+{
+    "spellName": "Shadow Of Moil",
+    "school": "Necromancy",
+    "castingTime": "1 Action",
+    "range": "Self",
+    "duration": "Concentration, up to 1 minute",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

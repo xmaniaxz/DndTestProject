@@ -1,0 +1,11 @@
+{
+    "spellName": "Motivational Speech",
+    "school": "Enchantment",
+    "castingTime": "1 hour",
+    "range": "60 feet",
+    "duration": "1 hour",
+    "components": "V",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

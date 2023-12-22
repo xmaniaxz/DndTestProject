@@ -1,0 +1,11 @@
+{
+    "spellName": "Illusory Script",
+    "school": "Illusion",
+    "castingTime": "1 Minute R",
+    "range": "Touch",
+    "duration": "10 days",
+    "components": "S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

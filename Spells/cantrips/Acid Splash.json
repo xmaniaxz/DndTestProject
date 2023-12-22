@@ -1,0 +1,11 @@
+{
+    "spellName": "Acid Splash",
+    "school": "Conjuration",
+    "castingTime": "1 Action",
+    "range": "60 Feet",
+    "duration": "Instantaneous",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

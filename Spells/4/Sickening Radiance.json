@@ -1,0 +1,11 @@
+{
+    "spellName": "Sickening Radiance",
+    "school": "Evocation",
+    "castingTime": "1 Action",
+    "range": "120 Feet",
+    "duration": "Concentration, up to 10 minutes",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

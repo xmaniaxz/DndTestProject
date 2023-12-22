@@ -1,0 +1,11 @@
+{
+    "spellName": "Legend Lore",
+    "school": "Divination",
+    "castingTime": "10 Minutes",
+    "range": "Self",
+    "duration": "Instantaneous",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

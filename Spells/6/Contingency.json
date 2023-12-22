@@ -1,0 +1,11 @@
+{
+    "spellName": "Contingency",
+    "school": "Evocation",
+    "castingTime": "10 Minutes",
+    "range": "Self",
+    "duration": "10 days",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

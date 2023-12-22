@@ -1,0 +1,11 @@
+{
+    "spellName": "Maddening Darkness",
+    "school": "Evocation",
+    "castingTime": "1 Action",
+    "range": "150 feet",
+    "duration": "Concentration, up to 10 minutes",
+    "components": "V, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

@@ -1,0 +1,11 @@
+{
+    "spellName": "Continual Flame",
+    "school": "Evocation",
+    "castingTime": "1 Action",
+    "range": "Touch",
+    "duration": "Until dispelled",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

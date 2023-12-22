@@ -1,0 +1,11 @@
+{
+    "spellName": "Time Stop",
+    "school": "Transmutation",
+    "castingTime": "1 Action",
+    "range": "Self",
+    "duration": "Instantaneous",
+    "components": "V",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

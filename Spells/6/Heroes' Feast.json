@@ -1,0 +1,11 @@
+{
+    "spellName": "Heroes' Feast",
+    "school": "Conjuration",
+    "castingTime": "10 Minutes",
+    "range": "30 feet",
+    "duration": "Instantaneous",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

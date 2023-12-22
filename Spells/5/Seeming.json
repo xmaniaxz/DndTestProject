@@ -1,0 +1,11 @@
+{
+    "spellName": "Seeming",
+    "school": "Illusion",
+    "castingTime": "1 Action",
+    "range": "30 feet",
+    "duration": "8 hours",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

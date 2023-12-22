@@ -1,0 +1,11 @@
+{
+    "spellName": "Detect Poison and Disease",
+    "school": "Divination",
+    "castingTime": "1 Action R",
+    "range": "Self",
+    "duration": "Concentration, up to 10 minutes",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

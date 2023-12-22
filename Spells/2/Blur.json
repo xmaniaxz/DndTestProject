@@ -1,0 +1,11 @@
+{
+    "spellName": "Blur",
+    "school": "Illusion",
+    "castingTime": "1 Action",
+    "range": "Self",
+    "duration": "Concentration, up to 1 minute",
+    "components": "V",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

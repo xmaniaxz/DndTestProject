@@ -1,0 +1,11 @@
+{
+    "spellName": "Shield",
+    "school": "Abjuration",
+    "castingTime": "1 Reaction",
+    "range": "Self",
+    "duration": "1 round",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

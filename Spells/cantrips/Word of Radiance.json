@@ -1,0 +1,11 @@
+{
+    "spellName": "Word of Radiance",
+    "school": "Evocation",
+    "castingTime": "1 Action",
+    "range": "5 feet",
+    "duration": "Instantaneous",
+    "components": "V, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

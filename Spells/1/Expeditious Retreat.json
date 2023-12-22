@@ -1,0 +1,11 @@
+{
+    "spellName": "Expeditious Retreat",
+    "school": "Transmutation",
+    "castingTime": "1 Bonus Action",
+    "range": "Self",
+    "duration": "Concentration, up to 10 minutes",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

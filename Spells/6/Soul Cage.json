@@ -1,0 +1,11 @@
+{
+    "spellName": "Soul Cage",
+    "school": "Necromancy",
+    "castingTime": "Special",
+    "range": "60 feet",
+    "duration": "8 hours",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

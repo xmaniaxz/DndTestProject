@@ -1,0 +1,11 @@
+{
+    "spellName": "Mirror Image",
+    "school": "Illusion",
+    "castingTime": "1 Action",
+    "range": "Self",
+    "duration": "1 minute",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

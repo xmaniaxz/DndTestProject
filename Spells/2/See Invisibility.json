@@ -1,0 +1,11 @@
+{
+    "spellName": "See Invisibility",
+    "school": "Divination",
+    "castingTime": "1 Action",
+    "range": "Self",
+    "duration": "1 hour",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

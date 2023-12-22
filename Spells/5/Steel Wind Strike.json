@@ -1,0 +1,11 @@
+{
+    "spellName": "Steel Wind Strike",
+    "school": "Conjuration",
+    "castingTime": "1 Action",
+    "range": "30 feet",
+    "duration": "Instantaneous",
+    "components": "S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

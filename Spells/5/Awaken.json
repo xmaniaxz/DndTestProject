@@ -1,0 +1,11 @@
+{
+    "spellName": "Awaken",
+    "school": "Transmutation",
+    "castingTime": "8 Hours",
+    "range": "Touch",
+    "duration": "Instantaneous",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

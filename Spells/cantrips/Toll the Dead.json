@@ -1,0 +1,11 @@
+{
+    "spellName": "Toll the Dead",
+    "school": "Necromancy",
+    "castingTime": "1 Action",
+    "range": "60 feet",
+    "duration": "Instantaneous",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

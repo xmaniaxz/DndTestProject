@@ -1,0 +1,11 @@
+{
+    "spellName": "Scatter",
+    "school": "Conjuration",
+    "castingTime": "1 Action",
+    "range": "30 feet",
+    "duration": "Instantaneous",
+    "components": "V",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

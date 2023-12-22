@@ -1,0 +1,11 @@
+{
+    "spellName": "Thaumaturgy",
+    "school": "Transmutation",
+    "castingTime": "1 Action",
+    "range": "30 feet",
+    "duration": "Up to 1 minute",
+    "components": "V",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

@@ -1,0 +1,11 @@
+{
+    "spellName": "Psionic Blast (UA)",
+    "school": "Evocation",
+    "castingTime": "1 Action",
+    "range": "Self (30-foot cone)",
+    "duration": "Instantaneous",
+    "components": "V",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

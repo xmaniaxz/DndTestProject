@@ -1,0 +1,11 @@
+{
+    "spellName": "Find Traps",
+    "school": "Divination",
+    "castingTime": "1 Action",
+    "range": "120 feet",
+    "duration": "Instantaneous",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

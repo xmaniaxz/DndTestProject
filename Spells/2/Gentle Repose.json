@@ -1,0 +1,11 @@
+{
+    "spellName": "Gentle Repose",
+    "school": "Necromancy",
+    "castingTime": "1 Action R",
+    "range": "Touch",
+    "duration": "10 days",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

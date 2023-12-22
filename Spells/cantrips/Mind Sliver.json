@@ -1,0 +1,11 @@
+{
+    "spellName": "Mind Sliver",
+    "school": "Enchantment",
+    "castingTime": "1 Action",
+    "range": "60 feet",
+    "duration": "1 round",
+    "components": "V",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

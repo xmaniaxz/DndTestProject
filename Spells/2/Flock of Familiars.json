@@ -1,0 +1,11 @@
+{
+    "spellName": "Flock of Familiars",
+    "school": "Conjuration",
+    "castingTime": "1 Minute",
+    "range": "Touch",
+    "duration": "Concentration, up to 1 hour",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

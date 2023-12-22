@@ -1,0 +1,11 @@
+{
+    "spellName": "Transport via Plants",
+    "school": "Conjuration",
+    "castingTime": "1 Action",
+    "range": "10 feet",
+    "duration": "1 round",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

@@ -1,0 +1,11 @@
+{
+    "spellName": "Creation",
+    "school": "Illusion",
+    "castingTime": "1 Minute",
+    "range": "30 feet",
+    "duration": "Special",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

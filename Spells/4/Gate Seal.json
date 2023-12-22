@@ -1,0 +1,11 @@
+{
+    "spellName": "Gate Seal",
+    "school": "Abjuration",
+    "castingTime": "1 Minute",
+    "range": "60 feet",
+    "duration": "24 hours",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

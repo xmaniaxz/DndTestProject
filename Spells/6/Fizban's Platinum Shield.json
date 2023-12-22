@@ -1,0 +1,11 @@
+{
+    "spellName": "Fizban's Platinum Shield",
+    "school": "Abjuration",
+    "castingTime": "1 Bonus Action",
+    "range": "60ft",
+    "duration": "Concentration, up to 1 minute",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

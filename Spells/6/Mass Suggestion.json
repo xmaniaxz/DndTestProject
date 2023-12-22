@@ -1,0 +1,11 @@
+{
+    "spellName": "Mass Suggestion",
+    "school": "Enchantment",
+    "castingTime": "1 Action",
+    "range": "60 feet",
+    "duration": "24 hours",
+    "components": "V, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

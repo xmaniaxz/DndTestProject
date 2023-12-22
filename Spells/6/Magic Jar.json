@@ -1,0 +1,11 @@
+{
+    "spellName": "Magic Jar",
+    "school": "Necromancy",
+    "castingTime": "1 Minute",
+    "range": "Self",
+    "duration": "Until dispelled",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

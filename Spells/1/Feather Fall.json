@@ -1,0 +1,11 @@
+{
+    "spellName": "Feather Fall",
+    "school": "Transmutation",
+    "castingTime": "1 Reaction",
+    "range": "60 feet",
+    "duration": "1 minute",
+    "components": "V, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

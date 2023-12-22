@@ -1,0 +1,11 @@
+{
+    "spellName": "Dimension Door",
+    "school": "Conjuration",
+    "castingTime": "1 Action",
+    "range": "500 feet",
+    "duration": "Instantaneous",
+    "components": "V",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

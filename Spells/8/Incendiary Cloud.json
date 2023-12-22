@@ -1,0 +1,11 @@
+{
+    "spellName": "Incendiary Cloud",
+    "school": "Conjuration",
+    "castingTime": "1 Action",
+    "range": "150 feet",
+    "duration": "Concentration, up to 1 minute",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

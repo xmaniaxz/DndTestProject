@@ -1,0 +1,11 @@
+{
+    "spellName": "Destructive Wave",
+    "school": "Evocation",
+    "castingTime": "1 Action",
+    "range": "Self (30-foot radius)",
+    "duration": "Instantaneous",
+    "components": "V",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

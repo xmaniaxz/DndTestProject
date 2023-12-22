@@ -1,0 +1,11 @@
+{
+    "spellName": "Druid Grove",
+    "school": "Abjuration",
+    "castingTime": "10 Minutes",
+    "range": "Touch",
+    "duration": "24 hours",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

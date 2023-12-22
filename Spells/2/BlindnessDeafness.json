@@ -1,0 +1,11 @@
+{
+    "spellName": "Blindness\/Deafness",
+    "school": "Necromancy",
+    "castingTime": "1 Action",
+    "range": "30 Feet",
+    "duration": "1 minute",
+    "components": "V",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

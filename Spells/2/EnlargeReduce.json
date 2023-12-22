@@ -1,0 +1,11 @@
+{
+    "spellName": "Enlarge\/Reduce",
+    "school": "Transmutation",
+    "castingTime": "1 Action",
+    "range": "30 feet",
+    "duration": "Concentration, up to 1 minute",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

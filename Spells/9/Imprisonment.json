@@ -1,0 +1,11 @@
+{
+    "spellName": "Imprisonment",
+    "school": "Abjuration",
+    "castingTime": "1 Minute",
+    "range": "30 feet",
+    "duration": "Until dispelled",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

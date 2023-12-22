@@ -1,0 +1,11 @@
+{
+    "spellName": "Plant Growth",
+    "school": "Transmutation",
+    "castingTime": "1 Action or 8 Hours",
+    "range": "150 feet",
+    "duration": "Instantaneous",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

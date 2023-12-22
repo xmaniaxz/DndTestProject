@@ -1,0 +1,11 @@
+{
+    "spellName": "Flame Strike",
+    "school": "Evocation",
+    "castingTime": "1 Action",
+    "range": "60 feet",
+    "duration": "Instantaneous",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

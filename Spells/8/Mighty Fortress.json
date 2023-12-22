@@ -1,0 +1,11 @@
+{
+    "spellName": "Mighty Fortress",
+    "school": "Conjuration",
+    "castingTime": "1 Minute",
+    "range": "1 mile",
+    "duration": "Instantaneous",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

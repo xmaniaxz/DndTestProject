@@ -1,0 +1,11 @@
+{
+    "spellName": "Tasha's Caustic Brew",
+    "school": "Evocation",
+    "castingTime": "1 Action",
+    "range": "Self (30-foot line)",
+    "duration": "Concentration, up to 1 minute",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

@@ -1,0 +1,11 @@
+{
+    "spellName": "Detect Magic",
+    "school": "Divination",
+    "castingTime": "1 Action R",
+    "range": "Self",
+    "duration": "Concentration, up to 10 minutes",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

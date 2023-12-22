@@ -1,0 +1,11 @@
+{
+    "spellName": "Alter Self",
+    "school": "Transmutation",
+    "castingTime": "1 Action",
+    "range": "Self",
+    "duration": "Concentration, up to 1 hour",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

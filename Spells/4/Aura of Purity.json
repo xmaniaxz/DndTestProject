@@ -1,0 +1,11 @@
+{
+    "spellName": "Aura of Purity",
+    "school": "Abjuration",
+    "castingTime": "1 Action",
+    "range": "Self (30-foot radius)",
+    "duration": "Concentration, up to 10 minutes",
+    "components": "V",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

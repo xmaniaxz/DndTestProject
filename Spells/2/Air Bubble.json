@@ -1,0 +1,11 @@
+{
+    "spellName": "Air Bubble",
+    "school": "Conjuration",
+    "castingTime": "1 Action",
+    "range": "60 Feet",
+    "duration": "24 hours",
+    "components": "S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

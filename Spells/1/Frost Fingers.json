@@ -1,0 +1,11 @@
+{
+    "spellName": "Frost Fingers",
+    "school": "Evocation",
+    "castingTime": "1 Action",
+    "range": "Self (15-foot cone)",
+    "duration": "Instantaneous",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

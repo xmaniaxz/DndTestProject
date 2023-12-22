@@ -1,0 +1,11 @@
+{
+    "spellName": "Mind Spike",
+    "school": "Divination",
+    "castingTime": "1 Action",
+    "range": "60 feet",
+    "duration": "Concentration, up to 1 hour",
+    "components": "S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

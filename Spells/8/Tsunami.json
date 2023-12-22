@@ -1,0 +1,11 @@
+{
+    "spellName": "Tsunami",
+    "school": "Conjuration",
+    "castingTime": "1 Action",
+    "range": "Sight",
+    "duration": "Concentration, up to 6 rounds",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

@@ -1,0 +1,11 @@
+{
+    "spellName": "Dawn",
+    "school": "Evocation",
+    "castingTime": "1 Action",
+    "range": "60 Feet",
+    "duration": "Concentration, up to 1 minute",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

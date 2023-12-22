@@ -1,0 +1,11 @@
+{
+    "spellName": "Compelled Duel",
+    "school": "Enchantment",
+    "castingTime": "1 Bonus Action",
+    "range": "30 feet",
+    "duration": "Concentration, up to 1 minute",
+    "components": "V",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

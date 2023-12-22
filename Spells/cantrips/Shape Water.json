@@ -1,0 +1,11 @@
+{
+    "spellName": "Shape Water",
+    "school": "Transmutation",
+    "castingTime": "1 Action",
+    "range": "30 feet",
+    "duration": "Instantaneous or 1 hour",
+    "components": "S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

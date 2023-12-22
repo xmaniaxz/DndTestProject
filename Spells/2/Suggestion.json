@@ -1,0 +1,11 @@
+{
+    "spellName": "Suggestion",
+    "school": "Enchantment",
+    "castingTime": "1 Action",
+    "range": "30 feet",
+    "duration": "Concentration, up to 8 hours",
+    "components": "V, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

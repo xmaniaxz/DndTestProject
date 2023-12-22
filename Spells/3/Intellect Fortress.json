@@ -1,0 +1,11 @@
+{
+    "spellName": "Intellect Fortress",
+    "school": "Abjuration",
+    "castingTime": "1 Action",
+    "range": "30 feet",
+    "duration": "Concentration, up to 1 hour",
+    "components": "V",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

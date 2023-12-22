@@ -1,0 +1,11 @@
+{
+    "spellName": "Widogast's Vault of Amber (HB)",
+    "school": "Transmutation",
+    "castingTime": "1 minute R",
+    "range": "Touch",
+    "duration": "Until dispelled",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

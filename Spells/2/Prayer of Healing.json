@@ -1,0 +1,11 @@
+{
+    "spellName": "Prayer of Healing",
+    "school": "Evocation",
+    "castingTime": "10 Minutes",
+    "range": "30 feet",
+    "duration": "Instantaneous",
+    "components": "V",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

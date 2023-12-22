@@ -1,0 +1,11 @@
+{
+    "spellName": "Geas",
+    "school": "Enchantment",
+    "castingTime": "1 Minute",
+    "range": "60 feet",
+    "duration": "30 days",
+    "components": "V",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

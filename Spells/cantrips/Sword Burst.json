@@ -1,0 +1,11 @@
+{
+    "spellName": "Sword Burst",
+    "school": "Conjuration",
+    "castingTime": "1 Action",
+    "range": "Self (5-foot radius)",
+    "duration": "Instantaneous",
+    "components": "V",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

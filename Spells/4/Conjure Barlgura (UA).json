@@ -1,0 +1,11 @@
+{
+    "spellName": "Conjure Barlgura (UA)",
+    "school": "Conjuration",
+    "castingTime": "1 Action",
+    "range": "60 feet",
+    "duration": "Up to 10 minutes",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

@@ -1,0 +1,11 @@
+{
+    "spellName": "Contagion",
+    "school": "Necromancy",
+    "castingTime": "1 Action",
+    "range": "Touch",
+    "duration": "7 days",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "dndapi",
+  "version": "1.0.0",
+  "description": "a dungeons and dragons api that has all the spells",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

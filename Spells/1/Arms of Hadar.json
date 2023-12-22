@@ -1,0 +1,11 @@
+{
+    "spellName": "Arms of Hadar",
+    "school": "Conjuration",
+    "castingTime": "1 Action",
+    "range": "Self (10-foot radius)",
+    "duration": "Instantaneous",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

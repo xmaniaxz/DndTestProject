@@ -1,0 +1,11 @@
+{
+    "spellName": "Delayed Blast Fireball",
+    "school": "Evocation",
+    "castingTime": "1 Action",
+    "range": "150 feet",
+    "duration": "Concentration, up to 1 minute",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

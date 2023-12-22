@@ -1,0 +1,11 @@
+{
+    "spellName": "Animate Dead",
+    "school": "Necromancy",
+    "castingTime": "1 Minute",
+    "range": "10 feet",
+    "duration": "Instantaneous",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

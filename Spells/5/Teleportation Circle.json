@@ -1,0 +1,11 @@
+{
+    "spellName": "Teleportation Circle",
+    "school": "Conjuration",
+    "castingTime": "1 Minute",
+    "range": "10 feet",
+    "duration": "1 round",
+    "components": "V, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

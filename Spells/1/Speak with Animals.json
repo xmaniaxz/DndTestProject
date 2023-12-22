@@ -1,0 +1,11 @@
+{
+    "spellName": "Speak with Animals",
+    "school": "Divination",
+    "castingTime": "1 Action R",
+    "range": "Self",
+    "duration": "10 minutes",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

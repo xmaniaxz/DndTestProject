@@ -1,0 +1,11 @@
+{
+    "spellName": "Forbiddance",
+    "school": "Abjuration",
+    "castingTime": "10 Minutes R",
+    "range": "Touch",
+    "duration": "1 day",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

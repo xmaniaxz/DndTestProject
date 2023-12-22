@@ -1,0 +1,11 @@
+{
+    "spellName": "Evard's Black Tentacles",
+    "school": "Conjuration",
+    "castingTime": "1 Action",
+    "range": "90 feet",
+    "duration": "Concentration, up to 1 minute",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

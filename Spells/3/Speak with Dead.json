@@ -1,0 +1,11 @@
+{
+    "spellName": "Speak with Dead",
+    "school": "Necromancy",
+    "castingTime": "1 Action",
+    "range": "10 feet",
+    "duration": "10 minutes",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

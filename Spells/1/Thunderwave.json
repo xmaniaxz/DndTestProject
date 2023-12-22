@@ -1,0 +1,11 @@
+{
+    "spellName": "Thunderwave",
+    "school": "Evocation",
+    "castingTime": "1 Action",
+    "range": "Self (15-foot cube)",
+    "duration": "Instantaneous",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

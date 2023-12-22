@@ -1,0 +1,11 @@
+{
+    "spellName": "Galder's Tower",
+    "school": "Conjuration",
+    "castingTime": "10 Minutes",
+    "range": "30 feet",
+    "duration": "24 hours",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

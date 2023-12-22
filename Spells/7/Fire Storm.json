@@ -1,0 +1,11 @@
+{
+    "spellName": "Fire Storm",
+    "school": "Evocation",
+    "castingTime": "1 Action",
+    "range": "150 feet",
+    "duration": "Instantaneous",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

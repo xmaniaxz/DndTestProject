@@ -1,0 +1,11 @@
+{
+    "spellName": "Conjure Hezrou (UA)",
+    "school": "Conjuration",
+    "castingTime": "1 Action",
+    "range": "60 feet",
+    "duration": "Concentration, up to 1 hour",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

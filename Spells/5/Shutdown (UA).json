@@ -1,0 +1,11 @@
+{
+    "spellName": "Shutdown (UA)",
+    "school": "Transmutation T",
+    "castingTime": "1 Action",
+    "range": "120 feet",
+    "duration": "Concentration, up to 1 minute",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

@@ -1,0 +1,11 @@
+{
+    "spellName": "Poison Spray",
+    "school": "Conjuration",
+    "castingTime": "1 Action",
+    "range": "10 feet",
+    "duration": "Instantaneous",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

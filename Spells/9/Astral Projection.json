@@ -1,0 +1,11 @@
+{
+    "spellName": "Astral Projection",
+    "school": "Evocation",
+    "castingTime": "1 Hour",
+    "range": "10 feet",
+    "duration": "Special",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

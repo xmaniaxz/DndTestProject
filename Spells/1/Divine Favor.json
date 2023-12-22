@@ -1,0 +1,11 @@
+{
+    "spellName": "Divine Favor",
+    "school": "Evocation",
+    "castingTime": "1 Bonus Action",
+    "range": "Self",
+    "duration": "Concentration, up to 1 minute",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

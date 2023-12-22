@@ -1,0 +1,11 @@
+{
+    "spellName": "Erupting Earth",
+    "school": "Transmutation",
+    "castingTime": "1 Action",
+    "range": "120 feet",
+    "duration": "Instantaneous",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

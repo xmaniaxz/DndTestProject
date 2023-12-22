@@ -1,0 +1,11 @@
+{
+    "spellName": "Drawmij's Instant Summons",
+    "school": "Conjuration",
+    "castingTime": "1 Minute R",
+    "range": "Touch",
+    "duration": "Until dispelled",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

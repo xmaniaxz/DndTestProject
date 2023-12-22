@@ -1,0 +1,11 @@
+{
+    "spellName": "Thought Shield (UA)",
+    "school": "Abjuration",
+    "castingTime": "1 Action",
+    "range": "Touch",
+    "duration": "8 hours",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

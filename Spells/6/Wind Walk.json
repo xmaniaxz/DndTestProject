@@ -1,0 +1,11 @@
+{
+    "spellName": "Wind Walk",
+    "school": "Transmutation",
+    "castingTime": "1 Minute",
+    "range": "30 feet",
+    "duration": "8 hours",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

@@ -1,0 +1,11 @@
+{
+    "spellName": "Mirage Arcane",
+    "school": "Illusion",
+    "castingTime": "10 Minutes",
+    "range": "Sight",
+    "duration": "10 days",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

@@ -1,0 +1,11 @@
+{
+    "spellName": "Antilife Shell",
+    "school": "Abjuration",
+    "castingTime": "1 Action",
+    "range": "Self (10-foot radius)",
+    "duration": "Concentration, up to 1 hour",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

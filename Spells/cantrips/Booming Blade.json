@@ -1,0 +1,11 @@
+{
+    "spellName": "Booming Blade",
+    "school": "Evocation",
+    "castingTime": "1 Action",
+    "range": "Self (5-foot radius)",
+    "duration": "1 round",
+    "components": "S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

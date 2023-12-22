@@ -1,0 +1,11 @@
+{
+    "spellName": "Mass Healing Word",
+    "school": "Evocation",
+    "castingTime": "1 Bonus Action",
+    "range": "60 feet",
+    "duration": "Instantaneous",
+    "components": "V",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

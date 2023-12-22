@@ -1,0 +1,11 @@
+{
+    "spellName": "Beast Sense",
+    "school": "Divination",
+    "castingTime": "1 Action R",
+    "range": "Touch",
+    "duration": "Concentration, up to 1 hour",
+    "components": "S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

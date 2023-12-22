@@ -1,0 +1,11 @@
+{
+    "spellName": "Melf's Minute Meteors",
+    "school": "Evocation",
+    "castingTime": "Self",
+    "range": "120 feet",
+    "duration": "Concentration, up to 10 minutes",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

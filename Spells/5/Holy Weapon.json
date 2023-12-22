@@ -1,0 +1,11 @@
+{
+    "spellName": "Holy Weapon",
+    "school": "Evocation",
+    "castingTime": "1 Bonus Action",
+    "range": "Touch",
+    "duration": "Concentration, up to 1 hour",
+    "components": "V, S",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

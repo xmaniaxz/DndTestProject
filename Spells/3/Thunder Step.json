@@ -1,0 +1,11 @@
+{
+    "spellName": "Thunder Step",
+    "school": "Conjuration",
+    "castingTime": "1 Action",
+    "range": "90 feet",
+    "duration": "Instantaneous",
+    "components": "V",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

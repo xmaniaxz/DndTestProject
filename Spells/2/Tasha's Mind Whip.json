@@ -1,0 +1,11 @@
+{
+    "spellName": "Tasha's Mind Whip",
+    "school": "Enchantment",
+    "castingTime": "1 Action",
+    "range": "90 feet",
+    "duration": "1 round",
+    "components": "V",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}

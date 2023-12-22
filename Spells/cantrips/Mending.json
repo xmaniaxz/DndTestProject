@@ -1,0 +1,11 @@
+{
+    "spellName": "Mending",
+    "school": "Transmutation",
+    "castingTime": "1 Minute",
+    "range": "Touch",
+    "duration": "Instantaneous",
+    "components": "V, S, M",
+    "description": null,
+    "higherLevel": null,
+    "spelllists": []
+}
